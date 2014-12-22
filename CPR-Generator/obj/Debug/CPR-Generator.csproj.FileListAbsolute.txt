@@ -1,0 +1,9 @@
+d:\windows 7 files\documents\visual studio 2012\Projects\CPR-Generator\CPR-Generator\bin\Debug\CPR-Generator.exe.config
+d:\windows 7 files\documents\visual studio 2012\Projects\CPR-Generator\CPR-Generator\bin\Debug\CPR-Generator.exe
+d:\windows 7 files\documents\visual studio 2012\Projects\CPR-Generator\CPR-Generator\bin\Debug\CPR-Generator.pdb
+d:\windows 7 files\documents\visual studio 2012\Projects\CPR-Generator\CPR-Generator\obj\Debug\CPR-Generator.csprojResolveAssemblyReference.cache
+d:\windows 7 files\documents\visual studio 2012\Projects\CPR-Generator\CPR-Generator\obj\Debug\CPR_Generator.Form1.resources
+d:\windows 7 files\documents\visual studio 2012\Projects\CPR-Generator\CPR-Generator\obj\Debug\CPR_Generator.Properties.Resources.resources
+d:\windows 7 files\documents\visual studio 2012\Projects\CPR-Generator\CPR-Generator\obj\Debug\CPR-Generator.csproj.GenerateResource.Cache
+d:\windows 7 files\documents\visual studio 2012\Projects\CPR-Generator\CPR-Generator\obj\Debug\CPR-Generator.exe
+d:\windows 7 files\documents\visual studio 2012\Projects\CPR-Generator\CPR-Generator\obj\Debug\CPR-Generator.pdb
